@@ -1,0 +1,76 @@
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form1.resources
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form2.resources
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.GenerateResource.cache
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.exe
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.deps.json
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.runtimeconfig.json
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.pdb
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\refint\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.pdb
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\ref\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Properties.Resources.resources
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.exe
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.deps.json
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.runtimeconfig.json
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.pdb
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.AssemblyReference.cache
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form1.resources
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form2.resources
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Properties.Resources.resources
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.GenerateResource.cache
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\refint\FinalSIM.dll
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.pdb
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\ref\FinalSIM.dll
+D:\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.exe
+D:\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.deps.json
+D:\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.runtimeconfig.json
+D:\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.dll
+D:\FinalSIM - copia (3)\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.pdb
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.AssemblyReference.cache
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form1.resources
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form2.resources
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Properties.Resources.resources
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.GenerateResource.cache
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfoInputs.cache
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfo.cs
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.CoreCompileInputs.cache
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.dll
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\refint\FinalSIM.dll
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.pdb
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.genruntimeconfig.cache
+D:\FinalSIM - copia (3)\FinalSIM\obj\Debug\net6.0-windows\ref\FinalSIM.dll
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.exe
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.deps.json
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.runtimeconfig.json
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.dll
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\bin\Debug\net6.0-windows\FinalSIM.pdb
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form1.resources
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Form2.resources
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.Properties.Resources.resources
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfoInputs.cache
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.AssemblyInfo.cs
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.dll
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\refint\FinalSIM.dll
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.pdb
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\FinalSIM.genruntimeconfig.cache
+C:\Users\Mauro\Desktop\FinalSIM - copia (3) 65\FinalSIM\obj\Debug\net6.0-windows\ref\FinalSIM.dll
